@@ -1,0 +1,9 @@
+streamlit
+gradio
+pandas
+numpy
+scikit-learn
+requests
+beautifulsoup4
+google-cloud-vision
+googlemaps
