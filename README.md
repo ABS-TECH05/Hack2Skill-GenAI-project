@@ -16,4 +16,4 @@ Displays transparent shipping costs to customers.
 This empowers artisans to market their crafts with confidence, expand their digital reach, and build trust with buyers.
 
 
-Link : https://5422b9e292c1e9f3f3.gradio.live/
+Link : https://nikhiel-my-courier-app.hf.space/
